@@ -18,12 +18,12 @@ toont de site een honingkleurig vlak. Later kan je ze gewoon overschrijven met e
 
 | Bestand | Onderwerp | Formaat | Gebruikt op |
 |---|---|---|---|
-| `imker.jpg` | Imker in pak met een raam vol bijen | staand (4:5) | Start – Over |
-| `honing-pot.jpg` | Pot honing met honinglepel | liggend / vierkant | Start – Diensten, Honing |
-| `bij-bloesem.jpg` | Honingbij op fruitbloesem | liggend (3:2) | Start – Diensten, Honing – Contact |
-| `zwerm.jpg` | Bijenzwerm als tros aan een tak | staand (4:5) | Start – Diensten, Zwermen |
-| `boomgaard.jpg` | Bijenkasten in een bloeiende boomgaard | liggend (4:3) | Start – Bestuiving |
+| `imker.jpg` ✅ | Imker bij de kasten | liggend (4:3) | Start – Over |
+| `honing-pot.jpg` | Pot vloeibare honing | vierkant | Honing |
+| `bij-bloesem.jpg` ✅ | Honingbij op een bloem | liggend / staand | Start – Diensten, Contact |
+| `zwerm.jpg` ✅ | Bijenzwerm in een boom | staand (3:4) | Start – Diensten, Zwermen |
+| `boomgaard.jpg` ✅ | Kasten in een bloeiende boomgaard | staand (3:4) | Start – Bestuiving |
 | `honing-romig.jpg` | Romige / gekristalliseerde honing | vierkant | Honing |
-| `honingraat.jpg` | Honingraat of raam met verzegelde honing | vierkant | Honing |
+| `honingraat.jpg` ✅ | Raam met verzegelde honing | vierkant | Start – Diensten, Honing |
 
 Breedte ongeveer 1200–1600 px en exporteren als JPG (kwaliteit ~75–80) volstaat.
